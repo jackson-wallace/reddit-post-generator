@@ -1,0 +1,5 @@
+background_video/
+venv/
+__pycache__/
+utils/__pycache__/
+config.py
